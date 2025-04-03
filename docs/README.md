@@ -3,8 +3,8 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
-title:
+repository-name: e20-co542-stock-price-prediction
+title: Stock Price Prediction
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
@@ -20,9 +20,10 @@ This is a sample image, to show how to add images to your page. To learn more op
  -->
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/20/093, Edirisooriya D.M.B, [email](mailto:e20093@eng.pdn.ac.lk)
+-  E/20/049, Chanuka B.D.K, [email](mailto:e20049@eng.pdn.ac.lk)
+-  E/20/244, Malshan P.G.P, [email](mailto:e200244@eng.pdn.ac.lk)
+-  E/20/271, Nirmani K.G.H, [email](mailto:e200271@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -32,8 +33,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 ---
 
 ## Introduction
-
- description of the real world problem and solution, impact
+In this project, we apply the knowledge acquired from the CO 542 course to predict stock market prices. By leveraging advanced computational techniques and data-driven methodologies, we aim to develop a predictive model that can analyze historical stock data and forecast future price trends.
 
 ## Other Sub Topics
 
