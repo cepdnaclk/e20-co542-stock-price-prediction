@@ -9,7 +9,7 @@ title: Stock Price Prediction
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Stock Price Prediction using Neural Networks
 
 ---
 
